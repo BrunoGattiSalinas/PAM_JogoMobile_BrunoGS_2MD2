@@ -1,0 +1,15 @@
+/**/
+
+canvas{
+  background-color: rgb(131, 189, 255);
+  width: 100%;
+}
+
+button{
+  height: 60px;
+}
+
+button svg{
+  height: 40px;
+  width: 40px;
+}
