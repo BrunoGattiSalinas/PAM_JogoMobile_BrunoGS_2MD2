@@ -6,10 +6,14 @@ canvas{
 }
 
 button{
-  height: 60px;
+  height: 50px;
 }
 
 button svg{
   height: 40px;
   width: 40px;
+}
+
+canvas{
+  width: 100%;
 }
